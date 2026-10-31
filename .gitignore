@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+.packages/
+*.exe
+*.dll
+*.asi
+*.pak
+*.zip
+*.7z
+*.rar
+*.pdb
+*.log
+backups/
+saves/
